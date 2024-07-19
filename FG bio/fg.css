@@ -1,0 +1,77 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+.pic1{
+    width: 400px;
+    height:  200px;
+    margin-right: 20px;
+}
+p.butter{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.pic2{
+    width: 400px;
+    height:  200px;
+    margin-right: 20px;
+}
+p.gelules{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.pic3{
+    width: 800px;
+    height:  300px;
+    margin-right: 20px;
+}
+p.poudre{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.pic4{
+    width: 1000px;
+    height:  300px;
+    margin-right: 20px;
+}
+p.huillec{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.pic5{
+    width: 800px;
+    height:  300px;
+    margin-right: 20px;
+}
+p.huillef{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.pic6{
+    width: 800px;
+    height:  200px;
+    margin-right: 20px;
+}
+p.nuts{
+    font-size: 20px;
+    padding-right: 300px;
+}
+.containerlogo{
+    background: linear-gradient(to right, rgb(202, 239, 202), rgb(255, 255, 255)); 
+    align-items: center;
+    justify-content: center;
+    padding-left: 500px;
+}
+.face{
+    padding-bottom: 2em;
+
+}
+.command{
+    display: flex;
+    justify-content: center;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
